@@ -1,0 +1,40 @@
+# =========================
+# Arduino / C++ Build Files
+# =========================
+.pio/
+build/
+*.bin
+*.elf
+*.hex
+*.uf2
+*.o
+*.a
+*.map
+*.obj
+
+# =========================
+# OS Generated Files
+# =========================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# =========================
+# IDE / Editor Files
+# =========================
+.vscode/
+*.swp
+*~
+
+# =========================
+# Temporary Scripts & Logs
+# =========================
+read_docx.py
+__pycache__/
+*.pyc
+*.log
