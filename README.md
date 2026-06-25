@@ -96,4 +96,4 @@ Once powered on, the system connects to Wi-Fi and begins monitoring. You can use
 - [Home-Security-System-using-ESP32CAM](https://github.com/make2explore/Home-Security-System-using-ESP32CAM-and-Telegram)
 
 ---
-*Created by SE1912_G3_IOT102 Team*
+*Created by SE1912_Group3_IOT102 Team*
